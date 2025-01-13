@@ -4,7 +4,7 @@ HelloWorld program written in Kotlin. Showng integration with Visual Studio Code
 
 The program was created to do end to end integration with Visual Studio Code and Github
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/fZHIVbh3lmQ)
 
 # Development Environment
 
