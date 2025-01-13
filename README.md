@@ -1,6 +1,6 @@
 # Overview
 
-HelloWorld program written in Kotlin. Showng integration with Visual Studio Code and Kotlin
+HelloWorld program written in Kotlin. Showing integration with Visual Studio Code and Kotlin
 
 The program was created to do end to end integration with Visual Studio Code and Github
 
